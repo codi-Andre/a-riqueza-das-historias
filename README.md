@@ -1,8 +1,34 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">
+    A riqueza das histórias
+</h1>
 
-## Getting Started
+Um site para descobrir a riqueza das histórias **que sobreviveram ao mais severo dos críticos...** ***O Tempo***, além de apresentar o prazer de uma boa leitura para aqueles que não conheciam.
 
-First, run the development server:
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/codi-andre/a-riqueza-das-historias.svg">
+
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/codi-andre/a-riqueza-das-historias.svg">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/codi-andre/a-riqueza-das-historias.svg">
+  <a href="https://github.com/codi-andre/a-riqueza-das-historias/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/codi-andre/a-riqueza-das-historias.svg">
+  </a>
+
+  <a href="https://github.com/codi-andre/a-riqueza-das-historias/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/codi-andre/a-riqueza-das-historias.svg">
+  </a>
+</p>
+
+<p align="center">
+  <a href="#como-acessar">Como acessar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;
+</p>
+
+## Como acessar
+
+Este projeto está nascendo, em breve estará disponível em um site, onde você poderá acessar através de um link, até lá...
+
+Primeiro, execute um dos comandos abaixo:
 
 ```bash
 npm run dev
@@ -12,23 +38,15 @@ yarn dev
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Abra [http://localhost:3000](http://localhost:3000) no seu navegador para ver o resultado.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Dê uma olhada no meu [LinkedIn profile](https://www.linkedin.com/in/aegis-andre) - seu feedback é bem-vindo! Se você gosta do que eu estou fazendo, vamos conversar!
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Tecnologias
 
-## Learn More
+Este projeto está em desenvolvimento com as seguintes tecnologias:
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- [ReactJS](https://reactjs.org/)
+- [NextJS](https://nextjs.org/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [Lucide](https://lucide.dev/)
